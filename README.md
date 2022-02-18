@@ -1,2 +1,2 @@
 # SampleQueue
-A sample implementation if a download queue
+A sample implementation of a download queue
